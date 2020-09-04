@@ -224,10 +224,10 @@ problemas:
 * Permitir a terceros el acceso a aplicaciones web y archivos interno.
 * Permitir a terceros ejecutar tus ejecutables.
 
-Puedes visitar el blog [Detectify](//labs.detectify.com) el cual te puede aportar
+Puedes visitar el blog [Detectify Labs](//labs.detectify.com) el cual te puede aportar
 mas información sobre los peligros de exponer tu grid públicamente.
 Aquí puedes visitar el articulo 
-[_Don't Leave your Grid Wide Open_](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/).
+[_Don't Leave your Grid Wide Open_](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/). Esto fue escrito por el hacker [Detectify Crowdsource](//cs.detectify.com), [Peter Jaric](//twitter.com/peterjaric).
 
 ## Selenium Docker
 
