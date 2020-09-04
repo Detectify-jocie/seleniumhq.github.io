@@ -184,8 +184,8 @@ Selenium服务网格需要使用合适的防火墙许可来隔离外部访问。
 * 你将会允许第三方来访问内部web服务和文件
 * 你将会允许第三方来执行定制的二进制文件
 
-请参考这篇文章[Detectify](//labs.detectify.com), 这里给了一个很好的概要，
-关于暴露一个服务网格后会如何被滥用：[Don't Leave your Grid Wide Open](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/).
+请参考这篇文章[Detectify Labs](//labs.detectify.com), 这里给了一个很好的概要，
+关于暴露一个服务网格后会如何被滥用：[Don't Leave your Grid Wide Open](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/). 这是由[Detectify Crowdsource](//cs.detectify.com)黑客[Peter Jaric](//twitter.com/peterjaric)撰写的。
 
 
 ## Docker Selenium
