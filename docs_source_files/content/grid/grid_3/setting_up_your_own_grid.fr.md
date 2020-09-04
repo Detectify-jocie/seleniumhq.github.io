@@ -271,9 +271,9 @@ entraîner un ou plusieurs des événements suivants:
 * Vous autorisez des tiers à accéder aux applications et fichiers Web internes
 * Vous autorisez des tiers à exécuter des binaires personnalisés
 
-Voir cet article de blog sur [Detectify](//labs.detectify.com), qui donne une bonne
+Voir cet article de blog sur [Detectify Labs](//labs.detectify.com), qui donne une bonne
 aperçu de l'utilisation abusive d'une grille exposée publiquement:
-[Ne laissez pas votre grille grande ouverte](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/).
+[Ne laissez pas votre grille grande ouverte](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/). Ceci a été écrit par le pirate informatique [Detectify Crowdsource](//cs.detectify.com), [Peter Jaric](//twitter.com/peterjaric).
 
 ## Docker Selenium
 
