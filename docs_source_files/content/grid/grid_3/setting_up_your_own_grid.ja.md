@@ -183,7 +183,7 @@ Selenium Gridは、適切なファイアウォールアクセス許可を使用�
 * サードパーティにカスタムバイナリの実行を許可します。
 
 [Detectify](//labs.detectify.com) に関するこのブログ投稿をご覧ください。
-これは、公開されたグリッドが悪用される可能性のある概要を示しています。 [Don't Leave your Grid Wide Open](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/)
+これは、公開されたグリッドが悪用される可能性のある概要を示しています。 [Don't Leave your Grid Wide Open](//labs.detectify.com/2017/10/06/guest-blog-dont-leave-your-grid-wide-open/) 。これは[Detectify Crowdsource](//cs.detectify.com)ハッカー、[Peter Jaric](//twitter.com/peterjaric)によって書かれました。
 
 ## Docker Selenium
 [Docker](//www.docker.com/) は、コンテナと呼ばれる単位でSelenium Gridインフラストラクチャをプロビジョニングおよびスケーリングする便利な方法を提供します。
